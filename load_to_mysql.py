@@ -4,8 +4,8 @@ from mysql.connector import Error
 
 DB_CONFIG = {
     "host": "tmdb-db.cj8uuauw2hnm.ap-northeast-2.rds.amazonaws.com",
-    "user": "admin",
-    "password": "gusdyd0727+",
+    "user": "YOUR_USER_NAME",
+    "password": "YOUR_PASSWORD",
     "database": "tmdb",
     "port": 3306
 }
