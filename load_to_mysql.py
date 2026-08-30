@@ -3,9 +3,9 @@ import mysql.connector
 from mysql.connector import Error
 
 DB_CONFIG = {
-    "host": "tmdb-db.cj8uuauw2hnm.ap-northeast-2.rds.amazonaws.com",
+    "host": "YOUR_RDS_ENDPOINT",
     "user": "YOUR_USER_NAME",
-    "password": "YOUR_PASSWORD",
+    "password": "YOUR_RDS_PASSWORD",
     "database": "tmdb",
     "port": 3306
 }
