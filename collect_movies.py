@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-API_KEY = "825e2dda4d7a4fd014b85ba055e2d788"
+API_KEY = "YOUR_TMDB_API_KEY"
 BASE_URL = "https://api.themoviedb.org/3"
 
 # 원하는 page에 있는 인기영화목록 수집 
